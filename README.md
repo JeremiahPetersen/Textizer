@@ -4,7 +4,7 @@
 
 
 # Textizer
-Text cleanup multi tool for removing whitespaces and line breaks, anonymizing identifiable information, and checking token count for use with ChatGPT or other Large Language Models.  There is also a decode feature to decode a previously anoymized text.  This project leverages the capabilities of the Hugging Face Transformers library and React library.
+Text cleanup multi tool for removing whitespaces and line breaks, anonymizing identifiable information, and checking token count for use with ChatGPT or other Large Language Models.  There is also a decode feature to decode a previously anonymized text.  This project leverages the capabilities of the Hugging Face Transformers library and React library.
 
 ## How to Use
 
