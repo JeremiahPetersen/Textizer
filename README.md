@@ -48,3 +48,12 @@ The frontend is built using the React library. The main component is TextModifie
 The frontend uses CSS for styling. Flexbox is used for layout, and several containers and items are defined and aligned within them. The CSS file also defines styles for text areas, buttons, and character/token count displays.
 
 Enjoy and feel free to contribute!
+
+# TODO
+
+- [ ] Build logic to remove comments from code.  Add button on front end. (This will lower token input for larger codebases)
+- [ ] Continue working on "Decode" functionality
+- [ ] Adjust "Anonymizer" function to work with lower case names, places, etc
+- [ ] Continue testing various names/places and add to list of edge cases for ones that do not transform as expected
+- [ ] Build Tests
+
